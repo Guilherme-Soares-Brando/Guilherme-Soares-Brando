@@ -9,14 +9,14 @@ Meu nome é Guilherme Soares Brando. Sou um desenvolvedor de software atualmente
 
 ## Conhecimentos Tecnológicos
 
-* Desenvolvimento Front-End: HTML, CSS, JavaScript, Alpine.JS;
-* Desenvolvimento Back-End: C++ básico, PHP;
-* Gerenciamento de Banco de Dados: MySQL, OracleDB;
-* Versionamento de Projetos: Github Desktop.
+* Desenvolvimento Front-End: **HTML**, **CSS**, **JavaScript**, Alpine.JS;
+* Desenvolvimento Back-End: C++ básico, **PHP**;
+* Gerenciamento de Banco de Dados: **MySQL**, OracleDB;
+* Versionamento de Projetos: **Git**, Github Desktop.
 
 ## Estou Aprendendo 
 
-* C#, Laravel, Microsoft SQL, MongoDB;
+* C#, Typescript, Laravel, Microsoft SQL, MongoDB; PostgreSQL
 * Aprofundando meus conhecimentos prévios.
 
 <!---
